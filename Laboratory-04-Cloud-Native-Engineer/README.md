@@ -42,3 +42,6 @@ docker rm my-nginx             # Remove container
 - docker-version.png
 - nginx-running.png
 - container-lifecycle.png
+
+
+<img width="1807" height="777" alt="image" src="https://github.com/user-attachments/assets/ee36a0a6-83bf-4870-93c0-96b2d6be2421" />
